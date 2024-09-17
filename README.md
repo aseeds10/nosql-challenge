@@ -7,8 +7,9 @@ help their journalists and food critics decide where to focus future articles.
 
 ## Installation
 1. Clone the repository
-2. Install dependencies ([])
-3. []
+2. Import the json file using code in NoSQL_setup_starter.ipynb (NOTE: for import to work correctly, must be in same directory as file is found in on terminal).
+3. Install dependencies ([])
+4. []
 
 ## Acknowledgments
 - Used Xpert Learning Assistant for assistance debugging.
