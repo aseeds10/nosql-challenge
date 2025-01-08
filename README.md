@@ -1,4 +1,4 @@
-# NO SQL
+# NO SQL Challenge
 Challenge 12 - NoSQL Databases
 
 ## Description
