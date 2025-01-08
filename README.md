@@ -1,5 +1,5 @@
-# Project Title
-Rutgers Bootcamp Challenge 12 - NoSQL Databases
+# NO SQL
+Challenge 12 - NoSQL Databases
 
 ## Description
 Prompt: I've been contracted by the editors of a food magazine, "Eat Safe, Love", to evaluate some of the ratings data in order to 
